@@ -1,1 +1,1 @@
-#AoC20
+# Advent of Code Solutions 2020
